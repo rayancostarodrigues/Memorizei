@@ -28,16 +28,29 @@ Dividida dessa maneira, a aplicação se torna escalável e de fácil manutenç�
 - criação de comunidades onde os usuários podem seguir e estudar flashcards de assuntos específicos;
 - modo do aplicativo onde professores e influencers criam suas próprias comunidades/perfis e os usuários pagam para estudar seus baralhos e realizar provas;
 
-Backend: https://github.com/kayane-developer/memorizei/tree/main
+Links externos:
 
-Frontend: https://github.com/kayane-developer/memorizei-front
+Documentação:
+- Relevancias, Benefícios, Impactos e Limitações: https://drive.google.com/file/d/1EDlVm_BqucDroXWE4UjK-yyGnbv85eEB/view?usp=drive_link
+- Modelo de negócio CANVA: https://drive.google.com/file/d/1EDRwjZsFlX550-BF-4dHta59NP1erZiw/view?usp=drive_link
+- Fluxograma: https://drive.google.com/file/d/1EMzOK8t88b80pD5IpE-qeC-gCO29b8oR/view?usp=sharing
 
-Apresentação do prototipo: https://drive.google.com/file/d/1DCFiPUwB7maDWgZYkpHv3cVIRtMDm-t_/view?usp=sharing
+Design:
+- Apresentação do prototipo: https://drive.google.com/file/d/1DCFiPUwB7maDWgZYkpHv3cVIRtMDm-t_/view?usp=sharing
+- Prototipo: https://www.figma.com/design/5BCepPsxKdtiJqvgamqSSp/memorizei!?node-id=0-1&t=RjTwB53rYZLPDasY-1
 
-Prototipo: https://www.figma.com/design/5BCepPsxKdtiJqvgamqSSp/memorizei!?node-id=0-1&t=RjTwB53rYZLPDasY-1
+Código:
+- Backend: https://github.com/kayane-developer/memorizei/tree/main
+- Frontend: https://github.com/kayane-developer/memorizei-front
 
-Relevancias, Benefícios, Impactos e Limitações: https://drive.google.com/file/d/1EDlVm_BqucDroXWE4UjK-yyGnbv85eEB/view?usp=drive_link
-
-Modelo de negócio CANVA: https://drive.google.com/file/d/1EDRwjZsFlX550-BF-4dHta59NP1erZiw/view?usp=drive_link
-
-Fluxograma: https://drive.google.com/file/d/1EMzOK8t88b80pD5IpE-qeC-gCO29b8oR/view?usp=sharing
+Integrantes:
+- Ana Carolina Alves de Meira / RA 322111224
+- Caio Fernandes Costa / RA 322116714
+- Caio Henrique Lucas Gonçalves Furbino / RA 32312592
+- Erick Vinícios Pereira de Jesus / RA 32217524
+- Eve Clair Ulrik Pavie / RA 119122204
+- João Pedro de Lima Ramos / RA 323125446
+- João Vitor Candido da Silva / RA 322125078
+- João Vitor Ferreira Nunes / RA 32215883
+- Kayane Costa Martins / RA 322129388
+- Rayan Costa Rodrigues / RA 322116715
