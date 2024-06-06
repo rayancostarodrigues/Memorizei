@@ -1,4 +1,23 @@
 # Memorizei
+Sobre o aplicativo:
+
+Objetivos de Desenvolvimento Sustentável (ODS): EDUCAÇÃO DE QUALIDADE
+
+A ideia de montar o aplicativo Memorizei! veio da necessidade de estudar diversas matérias, levando em conta que, se não fossem revisadas novamente, seriam esquecidas dentro de algum tempo. 
+
+Estudos afirmam existir, em nossos cérebros, uma curva do esquecimento. Nosso cérebro somente se lembra daquilo que interpreta ser necessário para nós, logo, se não usarmos a informação com frequência ela será esquecida.
+
+O aplicativo Memorizei! é baseado no método de Repetição Espaçada, estudado por Ebbinghaus e outros entusiastas da área neurológica. O aplicativo vem para ajudar na memorização de informações, estimulando o cérebro a relembrar e utilizar informações em dado intervalo de tempo, para que assim o assunto seja entendido como algo importante, e por este motivo armazenado em nossos cérebros, seguindo o método em que foi baseado.
+
+O aplicativo possui a missão de tornar o estudo e a memorização de informações mais fácil e acessível para os usuários.
+
+O mesmo dispõe de duas formas de estudo, a personalizada e a compartilhada.
+
+Na personalizada o próprio usuário cria seus flashcards e baralhos. Desta forma o utilizador pode criar o seu estudo baseado nos tópicos que deseja estudar.
+
+Já na compartilhada o usuário tem acesso a baralhos que outros estudantes criaram, podendo assim, elevar seu nível de conhecimento. Neste modo o utilizador não fica restrito a aquilo que já sabe, podendo ter acesso a novas informações, já que não foi ele o criador dos flashcards.
+
+
 Arquitetura: 
 O projeto consiste de uma aplicação distribuída utilizando da arquitetura Cliente-Servidor, e a arquitetura de microsserviços. 
 Inicialmente, composto pelos microsserviços:
