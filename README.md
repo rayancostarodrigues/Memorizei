@@ -39,9 +39,7 @@ Design:
 - Apresentação do prototipo: https://drive.google.com/file/d/1DCFiPUwB7maDWgZYkpHv3cVIRtMDm-t_/view?usp=sharing
 - Prototipo: https://www.figma.com/design/5BCepPsxKdtiJqvgamqSSp/memorizei!?node-id=0-1&t=RjTwB53rYZLPDasY-1
 
-Código:
-- Backend: https://github.com/kayane-developer/memorizei/tree/main
-- Frontend: https://github.com/kayane-developer/memorizei-front
+
 
 Integrantes:
 - Ana Carolina Alves de Meira / RA 322111224
