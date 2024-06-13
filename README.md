@@ -19,10 +19,17 @@ Já na compartilhada o usuário tem acesso a baralhos que outros estudantes cria
 
 
 Arquitetura: 
-O projeto consiste de uma aplicação distribuída utilizando da arquitetura Cliente-Servidor, e a arquitetura de microsserviços. 
-Inicialmente, composto pelos microsserviços:
- *usuário* : responsável pelos fluxos de cadastro, login e edição de usuários do aplicativo
-*card*: responsável pelos fluxos de criação, edição e utilização dos flashcards e baralhos do aplicativo
+Tecnologias utilizadas
+Back: Java 11, Spring Boot, Lombok, Junit, MySql
+Front: Typescript, Node, ReactNative e Expo
+
+O projeto consiste de uma aplicação distribuida utilizando da arquitetura Cliente-Servidor. 
+Inicialmente, em sua primeira versão, será composto por apenas um serviço responsável pelos fluxos do Usuario e dos fluxos dos Flashcards.
+
+A aplicação pode se desenvolver para uma arquitetura de Microsserviços em futuras versões, para deixa-la mais escalável, tendo em vista futuras implementações já mapeadas: 
+- A possibilidade de criação de Flashcards com perguntas de múltipla escolha;
+- Inserção de Imagens e videos dentro de flashcards;
+- Modo do aplicativo onde professores e influencers criam suas próprias comunidades/perfis e os usuários podem seguir as de seu interesse para estudar baralhos e realizar provas;
 
 Dividida dessa maneira, a aplicação se torna escalável e de fácil manutenção, facilitando futuras implementações já mapeadas: 
 - criação de comunidades onde os usuários podem seguir e estudar flashcards de assuntos específicos;
