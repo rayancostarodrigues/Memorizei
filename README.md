@@ -47,6 +47,8 @@ Design:
 - Prototipo: https://www.figma.com/design/5BCepPsxKdtiJqvgamqSSp/memorizei!?node-id=0-1&t=RjTwB53rYZLPDasY-1
 
 
+Back: https://github.com/kayane-developer/memorizei
+Front: https://github.com/kayane-developer/memorizei-front
 
 Integrantes:
 - Ana Carolina Alves de Meira / RA 322111224
