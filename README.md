@@ -33,6 +33,9 @@ A aplicação pode se desenvolver para uma arquitetura de Microsserviços em fut
 
 Links externos:
 
+Slides apresentação:
+- https://docs.google.com/presentation/d/1HKcxGjMSiwzOfdxNK8Sb1How6xUjxKLj/edit#slide=id.g211d62e9764_0_36
+
 Documentação:
 - Relevancias, Benefícios, Impactos e Limitações: https://drive.google.com/file/d/1EDlVm_BqucDroXWE4UjK-yyGnbv85eEB/view?usp=drive_link
 - Modelo de negócio CANVA: https://drive.google.com/file/d/1EDRwjZsFlX550-BF-4dHta59NP1erZiw/view?usp=drive_link
