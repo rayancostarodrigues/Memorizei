@@ -31,24 +31,19 @@ A aplicação pode se desenvolver para uma arquitetura de Microsserviços em fut
 - Inserção de Imagens e videos dentro de flashcards;
 - Modo do aplicativo onde professores e influencers criam suas próprias comunidades/perfis e os usuários podem seguir as de seu interesse para estudar baralhos e realizar provas;
 
-Dividida dessa maneira, a aplicação se torna escalável e de fácil manutenção, facilitando futuras implementações já mapeadas: 
-- criação de comunidades onde os usuários podem seguir e estudar flashcards de assuntos específicos;
-- modo do aplicativo onde professores e influencers criam suas próprias comunidades/perfis e os usuários pagam para estudar seus baralhos e realizar provas;
-
 Links externos:
 
 Documentação:
 - Relevancias, Benefícios, Impactos e Limitações: https://drive.google.com/file/d/1EDlVm_BqucDroXWE4UjK-yyGnbv85eEB/view?usp=drive_link
 - Modelo de negócio CANVA: https://drive.google.com/file/d/1EDRwjZsFlX550-BF-4dHta59NP1erZiw/view?usp=drive_link
-- Fluxograma: https://drive.google.com/file/d/1EMzOK8t88b80pD5IpE-qeC-gCO29b8oR/view?usp=sharing
 
 Design:
 - Apresentação do prototipo: https://drive.google.com/file/d/1DCFiPUwB7maDWgZYkpHv3cVIRtMDm-t_/view?usp=sharing
 - Prototipo: https://www.figma.com/design/5BCepPsxKdtiJqvgamqSSp/memorizei!?node-id=0-1&t=RjTwB53rYZLPDasY-1
 
-
-Back: https://github.com/kayane-developer/memorizei
-Front: https://github.com/kayane-developer/memorizei-front
+Código:
+- Back: https://github.com/kayane-developer/memorizei
+- Front: https://github.com/kayane-developer/memorizei-front
 
 Integrantes:
 - Ana Carolina Alves de Meira / RA 322111224
